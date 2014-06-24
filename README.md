@@ -1,7 +1,7 @@
 ionic setup process on windows
 ================
 
-Download and install NodeJS - http://nodejs.org/download/
+Download and install NodeJS (msi file) - http://nodejs.org/download/
 
 Download and install cygwin - http://cygwin.com/install.html
 
