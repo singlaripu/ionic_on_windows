@@ -9,4 +9,6 @@ Download java sdk jdk-8u5-windows-i586.exe - http://www.oracle.com/technetwork/j
 
 Download and install apache ant - http://ant.apache.org/bindownload.cgi
 
+Download and install Android ADT bundle - http://developer.android.com/sdk/index.html#download
+
 Download and install github for windows - https://windows.github.com/
