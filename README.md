@@ -25,7 +25,7 @@ ANDROID_HOME : C:\Users\ripu\Desktop\ionic_setup\adt-bundle-windows-x86-20140321
 JAVA_HOME : C:\Program Files\Java\jdk1.7.0_51 
 ```
 
-Please note your jdk version might be different than mine.
+Please note that your jdk version might be different than mine.
 
 Edit Enverionment variable "PATH" and add the following (separated by semicolon) - change wherever applicable
 
