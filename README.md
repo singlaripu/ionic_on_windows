@@ -69,7 +69,7 @@ ionic emulate android
 
 You should see your new app running on emulator, though it might take some time for android to boot. 
 
-Additionally I downloaded and installed really nice github GUI for windows from here - Github GUI - https://windows.github.com/
+Additionally I downloaded and installed really nice Github GUI for windows from here - https://windows.github.com/
 
 
 
