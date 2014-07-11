@@ -1,23 +1,22 @@
 ionic setup process on windows
 ================
 
-Download and install NodeJS (msi file) - http://nodejs.org/download/
+Download and install the following 
 
-Download java sdk jdk-8u5-windows-i586.exe - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+```bash
+NodeJS (msi file) - http://nodejs.org/download/
+Java SDK jdk-8u5-windows-i586.exe - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Github GUI - https://windows.github.com/
+Github Commandline - http://git-scm.com/download/win
+```
 
-Download and install github (needed for gui usage) - https://windows.github.com/
+Download the extract below zip files to some folder - I used 'C:\Users\ripu\Desktop\ionic_setup'
 
-Download and install git (needed for command line tools) - http://git-scm.com/download/win
-
-Download the below zip files to some folder 
-
- apache ant - http://ant.apache.org/bindownload.cgi
-
- Android ADT bundle - http://developer.android.com/sdk/index.html#download
-
- console2 - http://sourceforge.net/projects/console/
-
-Extract above 3 files in same folder - I downloaded and extracted above to 'C:\Users\ripu\Desktop\ionic_setup'
+```bash
+Apache Ant - http://ant.apache.org/bindownload.cgi
+Android ADT bundle - http://developer.android.com/sdk/index.html#download
+Console2 - http://sourceforge.net/projects/console/
+```
 
 Create following new environment variables, change paths as per your system wherever applicable
 
