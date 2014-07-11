@@ -5,7 +5,7 @@ Download and install the following
 
 ```bash
 NodeJS (msi file) - http://nodejs.org/download/
-Java SDK jdk-8u5-windows-i586.exe - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Java SDK (jdk-8u5-windows-i586.exe) - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 Github GUI - https://windows.github.com/
 Github Commandline - http://git-scm.com/download/win
 ```
